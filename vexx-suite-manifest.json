@@ -1,0 +1,27 @@
+{
+  "schema": 2,
+  "channel": "stable",
+  "released": "2026-11-02T11:11:58.616Z",
+  "version": "20261101.e28f",
+  "products": {
+    "suite": {
+      "version": "20261101.e28f",
+      "zip": "https://dropmefiles.com/D7KPb",
+      "sha256": "342af5f848a0e124b23959c3a2619176cce1e5dee31e0a52631ad8663cd96ad0",
+      "exe": {
+        "url": "https://dropmefiles.com/D7KPb",
+        "sha256": "b56ca6642ade10331791efe5eac42af32204f55cfce51ee48639e6c06996915c"
+      }
+    },
+    "patched": {
+      "version": "20261101.e28f",
+      "zip": "",
+      "sha256": "e22d683cf362e1f69535bfd509103220dead41a050ea89096ae29af750df635e"
+    },
+    "learn": {
+      "version": "20261101.e28f",
+      "zip": "",
+      "sha256": "9124aa4ce7a649dfbec8a6868943570347dad97dc156d61de28e561c94da4ab6"
+    }
+  }
+}
