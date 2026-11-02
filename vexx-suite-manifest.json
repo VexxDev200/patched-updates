@@ -1,27 +1,28 @@
 {
   "schema": 2,
   "channel": "stable",
-  "released": "2026-11-02T11:25:00.084Z",
-  "version": "20261102.d430",
+  "released": "2026-11-02T12:21:50.906Z",
+  "version": "20261102.50ba",
   "products": {
     "suite": {
-      "version": "20261102.d430",
-      "zip": "https://dropmefiles.com/DFML4",
-      "sha256": "6d0ca72b42cce5b44a26ead3195ca50ba35677351aff4c788893d3e9d8981bf2",
+      "version": "20261102.50ba",
+      "zip": "https://dropmefiles.com/tRx0w",
+      "sha256": "acb7f49504c7f44241b5e5c0fe9a5594671aebc733033ea5d57d36d1cd7bf36a",
       "exe": {
-        "url": "https://dropmefiles.com/DFML4",
-        "sha256": "6d0ca72b42cce5b44a26ead3195ca50ba35677351aff4c788893d3e9d8981bf2"
+        "url": "https://dropmefiles.com/tRx0w",
+        "sha256": "acb7f49504c7f44241b5e5c0fe9a5594671aebc733033ea5d57d36d1cd7bf36a"
       }
     },
     "patched": {
-      "version": "20261102.d430",
+      "version": "20261102.50ba",
       "zip": "",
-      "sha256": "6a3845339ef4e27fb07fe217ce2b907dd03928dbf9ad4514a4615e7a35de8a0a"
+      "sha256": "75551213f002e8fd1a3f6732e2ae93f9ba528add56d92a2359cfd7b0757dadb8"
     },
     "learn": {
-      "version": "20261102.d430",
+      "version": "20261102.50ba",
       "zip": "",
       "sha256": "9124aa4ce7a649dfbec8a6868943570347dad97dc156d61de28e561c94da4ab6"
     }
-  }
+  },
+  "note": "One VexxSuite.exe replaces Cloner, ASCII, PATCHED Premium, Learn together."
 }
