@@ -1,25 +1,25 @@
 {
   "schema": 2,
   "channel": "stable",
-  "released": "2026-11-02T11:11:58.616Z",
-  "version": "20261101.e28f",
+  "released": "2026-11-02T11:25:00.084Z",
+  "version": "20261102.d430",
   "products": {
     "suite": {
-      "version": "20261101.e28f",
-      "zip": "https://dropmefiles.com/D7KPb",
-      "sha256": "342af5f848a0e124b23959c3a2619176cce1e5dee31e0a52631ad8663cd96ad0",
+      "version": "20261102.d430",
+      "zip": "https://dropmefiles.com/DFML4",
+      "sha256": "6d0ca72b42cce5b44a26ead3195ca50ba35677351aff4c788893d3e9d8981bf2",
       "exe": {
-        "url": "https://dropmefiles.com/D7KPb",
-        "sha256": "b56ca6642ade10331791efe5eac42af32204f55cfce51ee48639e6c06996915c"
+        "url": "https://dropmefiles.com/DFML4",
+        "sha256": "6d0ca72b42cce5b44a26ead3195ca50ba35677351aff4c788893d3e9d8981bf2"
       }
     },
     "patched": {
-      "version": "20261101.e28f",
+      "version": "20261102.d430",
       "zip": "",
-      "sha256": "e22d683cf362e1f69535bfd509103220dead41a050ea89096ae29af750df635e"
+      "sha256": "6a3845339ef4e27fb07fe217ce2b907dd03928dbf9ad4514a4615e7a35de8a0a"
     },
     "learn": {
-      "version": "20261101.e28f",
+      "version": "20261102.d430",
       "zip": "",
       "sha256": "9124aa4ce7a649dfbec8a6868943570347dad97dc156d61de28e561c94da4ab6"
     }
